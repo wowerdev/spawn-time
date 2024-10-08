@@ -1,0 +1,11 @@
+{
+  "name": "spawn-time",
+  "version": "1.0.0",
+  "description": "Скрипт для отображения времени респауна мобов и ворлд боссов в WoW 3.3.5a Trinity.",
+  "keywords": [
+    "WoW 3.3.5a",
+    "trinity"
+  ],
+  "author": "https://github.com/wowerdev",
+  "license": "ISC"
+}
